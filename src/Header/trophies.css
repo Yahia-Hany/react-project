@@ -1,0 +1,46 @@
+.trophies{
+    position: absolute;
+    top: 75%;
+    background-color: #154284;
+    height: 35%;
+    width: 100%;
+}
+ .trophies h1{
+    position: absolute;
+    top: 0%;
+    color: #ffcc00;
+    left: 45%;
+
+}
+.trophies .p1{
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    color: #ffcc00;
+}
+.trophies .p2{
+    position: absolute;
+    top: 45%;
+    left: 30%;
+    color: #ffcc00;
+}
+.trophies .p3{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+    color: #ffcc00;
+}
+.trophies button{
+    position: absolute;
+    top: 80%;
+    left: 45%;
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    border: 3px solid white;
+    border-radius: 45px;
+    cursor: pointer;
+    background-color: #154284;
+    
+}

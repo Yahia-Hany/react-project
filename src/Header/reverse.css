@@ -1,0 +1,28 @@
+.containeer{
+    position: absolute;
+    top: 98%;
+    margin-top: 100px;
+    background-color: #eee;
+    display: flex;
+    height: 60%;
+    width: 100%;
+}
+.containeer .contents{
+    position: absolute;
+    left: 50%;
+    margin-top:5%;
+    padding-left: 10%;
+}
+.containeer .contents p{
+    font-size: 15px;
+}
+.containeer .image{
+    background-color: #eee;
+}
+.containeer .image img{
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    width: 40%;
+
+}

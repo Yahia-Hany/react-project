@@ -1,0 +1,125 @@
+.players{
+    background-color: #eee;
+    position: absolute;
+    width: 100%;
+    height: 80%;
+    top: 170%;
+}
+.players h1{
+    position: absolute;
+    top: 0%;
+    left: 45%;
+    margin-bottom: 100%;
+}
+.players .player1{
+    position: absolute;
+    top: 15%;
+    left: 33%;
+    margin-left: 3%;
+    width: 30%;
+    height: 70%;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+.players .player1 img{
+    position: absolute;
+    left: 10%;
+    top: 3%;
+    width: 80%;
+    height: 50%;
+}
+.players .player1 .p1{
+    position: absolute;
+    left: 30%;
+    top: 55%;
+}
+.players .player1 .p2{
+    position: absolute;
+    left: 30%;
+    top: 62%;
+}
+.players .player1 .p3{
+    position: absolute;
+    left: 30%;
+    top: 69%;
+}
+.players .player2{
+    position: absolute;
+    top: 15%;
+    margin-left: 3%;
+    width: 30%;
+    height: 70%;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+.players .player2 img{
+    position: absolute;
+    left: 10%;
+    top: 3%;
+    width: 80%;
+    height: 50%;
+}
+.players .player2 .p1{
+    position: absolute;
+    left: 30%;
+    top: 55%;
+}
+.players .player2 .p2{
+    position: absolute;
+    left: 30%;
+    top: 62%;
+}
+.players .player2 .p3{
+    position: absolute;
+    left: 30%;
+    top: 69%;
+}
+.players .player3{
+    position: absolute;
+    left: 66%;
+    top: 15%;
+    margin-left: 3%;
+    width: 30%;
+    height: 70%;
+    border: 1px solid;
+    border-radius: 10px;
+
+}
+.players .player3 img{
+    position: absolute;
+    left: 10%;
+    top: 3%;
+    width: 80%;
+    height: 50%;
+}
+.players .player3 .p1{
+    position: absolute;
+    left: 30%;
+    top: 55%;
+}
+.players .player3 .p2{
+    position: absolute;
+    left: 30%;
+    top: 62%;
+}
+.players .player3 .p3{
+    position: absolute;
+    left: 30%;
+    top: 69%;
+}
+.players button{
+    position: absolute;
+    top: 85%;
+    left: 35%;
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    border: 3px solid white;
+    border-radius: 45px;
+    cursor: pointer;
+    background-color: #154284;
+    
+}
